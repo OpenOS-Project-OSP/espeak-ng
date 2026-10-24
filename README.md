@@ -1,5 +1,7 @@
 # eSpeak Text-to-Speech for Android™
 
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/OpenOS-Project-OSP/espeak-ng) [![KDE Eco](https://img.shields.io/badge/KDE%20Eco-certified-brightgreen?logo=kde&logoColor=white&style=flat-square)](https://eco.kde.org/) [![Blue Angel](https://img.shields.io/badge/Blue%20Angel-DE--UZ%20215-0055a4?style=flat-square)](https://www.blauer-engel.de/en/certification/criteria)
+
 [![eSpeak for Android on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png "eSpeak for Android on Google Play")](https://play.google.com/store/apps/details?id=com.reecedunn.espeak)
 
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=rhdunn&url=https://github.com/rhdunn/espeak&title=espeak&language=&tags=github&category=software)
